@@ -2,7 +2,7 @@ import java.util.Scanner
 import scala.collection.mutable.ListBuffer
 object normal {
 val scanner=new java.util.Scanner(System.in)
-println("Introduzca numero n")
+println("Introduzca un numero N")
 var n = scanner.nextInt()
 var a=0
 var b=1
