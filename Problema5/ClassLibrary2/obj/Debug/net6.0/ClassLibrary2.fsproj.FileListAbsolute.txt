@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+C:\Users\USUARIO\source\repos\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+C:\Users\USUARIO\source\repos\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+C:\Users\USUARIO\source\repos\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.xml
+C:\Users\USUARIO\source\repos\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.fsproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.fs
+C:\Users\USUARIO\source\repos\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+C:\Users\USUARIO\source\repos\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.xml
+C:\Users\USUARIO\source\repos\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb

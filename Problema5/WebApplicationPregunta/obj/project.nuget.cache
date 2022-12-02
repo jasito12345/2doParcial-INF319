@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/mBdVONyAaXMGiNusiFq577QKEppnC0kiLtR6U8AZA3vuvTexBSt+0NS3vrZWCHO+BKcfxOu2rnt3d/RcUjKsw==",
+  "success": true,
+  "projectFilePath": "D:\\pregunta4\\WebApplicationPregunta4319 - copia\\WebApplicationPregunta4319.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
